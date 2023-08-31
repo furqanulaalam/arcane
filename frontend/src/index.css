@@ -1,0 +1,22 @@
+html, #root {
+    background-image:url("./arcane.png");
+    background-size: cover;
+    background-position: right top;
+}
+
+.loginRegisterHolder {
+    position: absolute;
+    right: 3%;
+    bottom: 15%;
+    margin-top: 100px;
+}
+
+.main-text-holder.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+    font-size: 13px;
+  }
